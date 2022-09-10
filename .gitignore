@@ -53,3 +53,4 @@ dkms.conf
 
 firmware/radar-sleep-monitor-esp/.pio
 firmware/radar-sleep-monitor-esp/.vscode
+firmware/radar-sleep-monitor-esp/platformio.ini
