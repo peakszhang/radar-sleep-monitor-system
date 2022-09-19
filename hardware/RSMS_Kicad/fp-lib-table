@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ESP32-S2-WROOM")(type "KiCad")(uri "D:/OneDrive - VNU-HCMUS/projects/pcb_custom_lib/kicad6/ESP32-S2-WROOM")(options "")(descr ""))
+  (lib (name "TL1015AF160QG")(type "KiCad")(uri "D:/OneDrive - VNU-HCMUS/projects/pcb_custom_lib/kicad6/TL1015AF160QG")(options "")(descr ""))
+)
