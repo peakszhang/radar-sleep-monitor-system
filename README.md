@@ -14,5 +14,5 @@
 ### Software
 - Smartphone display data (from MQTT)
 - Phone alarm
-- ESP32 smartconfig
+- ESP32 smartconfig (https://github.com/EspressifApp/EsptouchForAndroid)
 - Cloud server (optional)
