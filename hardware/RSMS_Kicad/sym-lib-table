@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "ESP32-S2-WROOM")(type "Legacy")(uri "D:/OneDrive - VNU-HCMUS/projects/pcb_custom_lib/kicad6/ESP32-S2-WROOM/ESP32-S2-WROOM.lib")(options "")(descr ""))
+  (lib (name "ESP32-WROOM-32")(type "Legacy")(uri "D:/OneDrive - VNU-HCMUS/projects/pcb_custom_lib/kicad6/ESP32-WROOM-32/ESP32-WROOM-32.lib")(options "")(descr ""))
 )
